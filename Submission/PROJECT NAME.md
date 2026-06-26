@@ -3,49 +3,55 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Mahi Kakkar
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+mahi17916
 
 **Team Name:**  
-<!-- Write your team name -->
+mahicoder
 
 **College/University:**  
-<!-- Write your college/university name -->
+Samrat Ashok Technological Institute, Vidisha
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+IRVision AI – Infrared Image Colorization and Enhancement for Improved Object Interpretation
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+IRVision AI is a Django-based web application developed to improve the interpretation of infrared (TIR) satellite imagery. The system allows users to upload infrared satellite images, performs preprocessing, contrast enhancement, sharpening, and semantic pseudo-color visualization using OpenCV, and displays the original and processed outputs side by side. The project is designed as a prototype for future AI-powered super-resolution and infrared-to-RGB colorization using deep learning models.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Python
+Django
+OpenCV
+NumPy
+HTML
+CSS
+SQLite
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/mahi17916/IRVision-AI
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+N/A (Local Django Application)
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+No
 
 ---
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
+- [✔️] My project is public on GitHub
+- [✔️] My repository has a proper README.md
+- [✔️] I have added setup/installation instructions
+- [✔️] I have added screenshots/demo where possible
 - [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [✔️] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +59,23 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [✔️] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [✔️] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [✔️] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [✔️] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [✔️] I have generated my ID card from https://oshack.xyz
+- [✔️] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
